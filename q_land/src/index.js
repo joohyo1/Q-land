@@ -6,7 +6,7 @@ import printTree from "../mesh/tree.js";
 import printHallabong from "../mesh/hallabong.js";
 
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
-import { SpotLightHelper } from "three";
+// import { SpotLightHelper } from "three";
 import { TextureLoader } from "three";
 
 let camera, scene, renderer, stats;
